@@ -10,3 +10,4 @@ def cal_factorial(n):
     
 output = cal_factorial(n)
 print("Factorial Number", n ,"is :", output)
+print("Thank You")
